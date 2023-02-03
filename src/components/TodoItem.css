@@ -1,0 +1,18 @@
+.contents {
+  display: flex;
+  padding: 15px 15px;
+  justify-content: space-between;
+  background-color: #3c3c3c;
+}
+
+.contents > div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.contents > span {
+  text-overflow: ellipsis;
+  max-width: 200;
+  overflow: hidden;
+}
