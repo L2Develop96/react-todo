@@ -28,11 +28,6 @@ input[type="checkbox"] {
   margin: 0 1em;
 }
 
-.fa-solid.fa-trash {
-  color: slateblue;
-  cursor: pointer;
-}
-
 .content-container {
   margin: 0 15px;
   max-height: 500px;
