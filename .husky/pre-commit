@@ -3,4 +3,4 @@
 
 exec >/dev/tty 2>&1
 
-npx -p prettier@latest -p pretty-quick pretty-quick --staged && yarn lint-staged
+npx pretty-quick --staged && yarn lint-staged
